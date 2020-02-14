@@ -2,24 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56cfef1a-230c-43e8-a29a-74890bdcf4f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/desafio31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio29.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio29.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio30.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio36.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio37.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio38.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio39.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio40.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio40.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +51,8 @@
       <recent name="C:\Users\Developer\Desktop\script-python\teste-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio35">
-    <configuration name="desafio31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio40">
+    <configuration name="desafio03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="teste-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio31.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="teste-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio32.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio37.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="teste-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio33.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio38.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="teste-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio34.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio39.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="teste-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio35.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio40.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio35" />
-        <item itemvalue="Python.desafio34" />
-        <item itemvalue="Python.desafio33" />
-        <item itemvalue="Python.desafio32" />
-        <item itemvalue="Python.desafio31" />
+        <item itemvalue="Python.desafio40" />
+        <item itemvalue="Python.desafio39" />
+        <item itemvalue="Python.desafio38" />
+        <item itemvalue="Python.desafio37" />
+        <item itemvalue="Python.desafio03" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581078697928</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add aula 10 desafios">
+      <created>1581337855465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581337855466</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,7 +214,8 @@
     <MESSAGE value="Inicial" />
     <MESSAGE value="add aula 8 e 9" />
     <MESSAGE value="add aula 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add aula 10" />
+    <MESSAGE value="add aula 10 desafios" />
+    <option name="LAST_COMMIT_MESSAGE" value="add aula 10 desafios" />
   </component>
   <component name="WindowStateProjectService">
     <state x="724" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580983020191">
@@ -224,30 +226,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="147" key="#deasfio18/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580812009234" />
-    <state x="611" y="115" key="CommitChangelistDialog2" timestamp="1581078697151">
+    <state x="611" y="115" key="CommitChangelistDialog2" timestamp="1581337854693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="611" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581078697151" />
+    <state x="611" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581337854693" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1580725553261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580725553261" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1581336862729">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1581676709438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581336862729" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1581336862729">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581676709438" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1581676709438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581336862729" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1581336862729">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581676709438" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1581676709438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581336862729" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1581336862729">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581676709438" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1581676709438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581336862729" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581676709438" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1580727097475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -268,10 +270,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580725816336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1581068791724">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1581337874374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581068791724" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581337874374" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1580121598792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
